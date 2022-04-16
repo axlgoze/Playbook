@@ -23,3 +23,6 @@ verbose(message){
 }
 
 }
+
+//ESta clase se exporta en este módulo
+module.exports = logger
