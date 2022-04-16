@@ -13,7 +13,7 @@
 
 - [] Ejercicio :one:
 
-- [] Ejercicio :two:
+- [X] Ejercicio :two:
 
 - [] Ejercicio :three:
 
@@ -29,5 +29,5 @@
 
 - [] Ejercicio :nine:
 
-- [] Ejercicio :zero: :one:
+- [] Ejercicio :one: :zero:
  
