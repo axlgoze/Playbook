@@ -13,7 +13,7 @@ y usarla como:
 
 module.exports = (message) => {
 
-console.log(`ingo: ${message}`)
+console.log(`info: ${message}`)
 
 }
 
