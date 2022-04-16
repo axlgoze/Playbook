@@ -14,9 +14,12 @@ this.name = name // Estas variables se le conocen como atributos
 // message es una variable que se le pasa al ejecutar este método
 
 info(message){
-	console.log(`[Objeto con nombre: ${thi.name}] info: ${message}`)
+	console.log(`[Objeto con nombre: ${this.name}] info: ${message}`)
 }
 
-
+//método
+verbose(message){
+	console.log(`[Objeto con nombre: ${this.name}] verbose: ${message}`)
+}
 
 }
