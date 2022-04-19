@@ -1,6 +1,7 @@
-const Pokemon = require('./pokemon') //dependencia con módulo pokemon
+const Pokemon = require('./pokemon') //dependencia con módulo pokemon el cual contiene la clase
 
-const pikachu = new Pokemon("pikachu") //Creación de objetos
+//Creación de objetos
+const pikachu = new Pokemon("pikachu")
 
 const bulbasaur = new Pokemon("bulbasaur")
 
@@ -19,6 +20,3 @@ squirtle.sayMessage("Heey!")
 
 charmander.sayHello()
 charmander.sayMessage("Heey!")
-
-
-
