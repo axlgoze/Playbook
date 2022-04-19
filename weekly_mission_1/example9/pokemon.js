@@ -17,6 +17,8 @@ class Pokemon{
 	sayMessage (message){
 		console.log(`Mi pokemon ${this.name} dice: ${message}`)
 	}
-
 }
+
+// exportando módulo
+module.exports = Pokemon
 
