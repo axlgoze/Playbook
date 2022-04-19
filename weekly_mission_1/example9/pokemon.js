@@ -12,6 +12,11 @@ class Pokemon{
 	sayHello (message){
 		console.log(`Mi pokemon ${this.name} te saluda!!!`)
 	}
+	
+	//método di mensaje
+	sayMessage (message){
+		console.log(`Mi pokemon ${this.name} dice: ${message}`)
+	}
 
 }
 
