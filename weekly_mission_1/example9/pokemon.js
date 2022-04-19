@@ -1,4 +1,9 @@
-//clase que crea objetos
+//creando clase
 
-let pokemon = new Pokemon(); //creacion de objeto
+class Pokemon{
+	//constructor
+	constructor(name){
+		this.name=name
+	}
+}
 
