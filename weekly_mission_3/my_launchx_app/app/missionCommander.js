@@ -3,3 +3,6 @@ class MissionComander {
 		this.name=name
 	}
 }
+
+//exportando nuestra clase
+module.exports = MissionCommander
