@@ -5,6 +5,7 @@ describe("Unit Tests for Mission Commander Class", () => {
 		// Aqui puedes usar el código como lo deseas utilizar
 		const myMissionCommander = new MissionCommander ("Woopa")
 		// validar el resultado esperado
-		expect(result).toBe(10);
+		expect(myMissionCommander.name).toBe("Woopa"); //el primer parametro es la propiedad a probarm, el siguiente parentesis es el valor que esperas obtener
+
 	})
 })
