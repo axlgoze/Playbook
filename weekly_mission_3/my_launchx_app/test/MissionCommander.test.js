@@ -1,3 +1,5 @@
+const MissionCommander = require('./../app/misionCommander');
+
 describe("Esto es una suite de pruebas", () => {
 	test('Caso de pŕueba 1', () => {
 		// Aqui puedes usar el código como lo deseas utilizar
