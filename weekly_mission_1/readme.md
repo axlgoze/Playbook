@@ -11,23 +11,24 @@
 
 ### :chestnut: Examples status
 
-- [] Ejercicio :one:
+- [x] Ejercicio :one:
 
 - [X] Ejercicio :two:
 
-- [] Ejercicio :three:
+- [x] Ejercicio :three:
 
-- [] Ejercicio :four:
+- [x] Ejercicio :four:
 
-- [] Ejercicio :five:
+- [x] Ejercicio :five:
 
-- [] Ejercicio :six:
+- [x] Ejercicio :six:
 
-- [] Ejercicio :seven:
+- [x] Ejercicio :seven:
 
-- [] Ejercicio :eight:
+- [x] Ejercicio :eight:
 
-- [] Ejercicio :nine:
+- [x] Ejercicio :nine:
 
-- [] Ejercicio :one: :zero:
+- [x] Ejercicio :one: :zero:
  
+:smile:
