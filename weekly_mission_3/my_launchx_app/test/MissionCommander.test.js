@@ -1,7 +1,7 @@
 const MissionCommander = require('./../app/misionCommander');
 
-describe("Esto es una suite de pruebas", () => {
-	test('Caso de pŕueba 1', () => {
+describe("Unit Tests for Mission Commander Class", () => {
+	test('1) Create a mission commander object', () => {
 		// Aqui puedes usar el código como lo deseas utilizar
 		const result = 1 + 7
 		// validar el resultado esperado
