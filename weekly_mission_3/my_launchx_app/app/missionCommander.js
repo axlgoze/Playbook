@@ -1,4 +1,4 @@
-class MissionComander {
+class MissionCommander {
 	constructor (name){
 		this.name=name
 	}
