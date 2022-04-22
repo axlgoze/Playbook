@@ -1,4 +1,4 @@
-const MissionCommander = require('./../app/misionCommander');
+const MissionCommander = require('./../app/MisionCommander');
 
 describe("Unit Tests for Mission Commander Class", () => {
 	test('1) Create a mission commander object', () => {
