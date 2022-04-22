@@ -1,5 +1,5 @@
 //importando clase
-const MissionCommander = require('.app/missionCommander');
+const MissionCommander = require('./app/missionCommander');
 
 //instanciando  objetos
 const carlo = new MissionCommander("Carlo");
