@@ -7,8 +7,9 @@ class Cat {
 
 //método
 info(message){
-	console.log(${this.name});
+	console.log(`[Objeto con nombre: ${this.name}] info: ${message}`);
 }
 
+} //cierre clase
 // Esta clase se exporta en este método
 module.exports = Cat
