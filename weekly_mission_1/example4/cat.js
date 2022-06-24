@@ -2,12 +2,12 @@ class Cat {
     constructor(name,age,weight){
     this.name = name; //this hace referencia a la variable loca de esta clase
     this.age  = age;
-    this.name = weight;
+    this.weight = weight;
 }
 
 //método
 info(message){
-	console.log(`[Objeto con nombre: ${this.name}] info: ${message}`);
+	console.log(`mensaje: ${message} [${this.name}]`);
 }
 
 } //cierre clase
