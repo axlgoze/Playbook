@@ -9,3 +9,6 @@ class Cat {
 info(message){
 	console.log(${this.name});
 }
+
+// Esta clase se exporta en este método
+module.exports = Cat
